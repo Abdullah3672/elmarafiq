@@ -1,0 +1,80 @@
+.frame-2 .image-3 {
+  background: url('../assets/images/image_5.png');
+  margin-bottom: 51px;
+  width: 118px;
+  height: 69px;
+}
+.frame-2 .container-5 {
+  margin: 0 1px 27px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  line-height: 1;
+  color: #000000;
+}
+.frame-2 .container {
+  margin: 0 3px 28px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  line-height: 1;
+  color: #000000;
+}
+.frame-2 .container-1 {
+  margin: 0 2px 8px 0;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  line-height: 1;
+  color: #000000;
+}
+.frame-2 .container-2 {
+  margin: 0 8.3px 11px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  line-height: 1;
+  color: #000000;
+}
+.frame-2 .container-3 {
+  margin: 0 0 28px 10.1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  line-height: 1;
+  color: #000000;
+}
+.frame-2 .container-4 {
+  margin-left: 1.4px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  line-height: 1;
+  color: #000000;
+}
+.frame-2 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 29px 0 50px 0;
+  box-sizing: border-box;
+}

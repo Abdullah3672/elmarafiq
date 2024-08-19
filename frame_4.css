@@ -1,0 +1,25 @@
+.frame-4 .group {
+  width: 533px;
+  height: 465px;
+}
+.frame-4 .frame-5 {
+  border: 1px solid #000000;
+  margin-right: 143px;
+  display: flex;
+  width: 533px;
+  height: 465px;
+  box-sizing: border-box;
+}
+.frame-4 .frame-6 {
+  border: 1px solid #000000;
+  width: 663px;
+  height: 465px;
+}
+.frame-4 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  padding: 112.5px 82px;
+  width: 1503px;
+  box-sizing: border-box;
+}
